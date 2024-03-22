@@ -1,0 +1,8 @@
+Screen1 As screen:
+
+    Button1 As button:
+        Text: ="hello world"
+        X: =125
+        Y: =80
+        ZIndex: =1
+
